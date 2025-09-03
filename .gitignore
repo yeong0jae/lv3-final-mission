@@ -35,3 +35,8 @@ out/
 
 ### VS Code ###
 .vscode/
+/docker-compose.dev.yml
+/docker-compose.prod.app.yml
+/docker-compose.prod.db.yml
+/src/main/resources/application-dev.yml
+/src/main/resources/application-prod.yml
